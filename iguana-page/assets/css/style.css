@@ -1,0 +1,109 @@
+    body {
+        font-family: 'Raleway', sans-serif;
+        color: #ffffff;
+        background-color: #000000;
+        margin: 0;
+    }
+    
+    body * {
+        margin: 0;
+        border: 0;
+        padding: 0;
+        align-content: center;
+    }
+    
+    nav {
+        text-align: center;
+        font-size: 50px;
+        letter-spacing: 0px;
+        opacity: 1;
+        font-weight: 500;
+        /*width: 1280px;*/
+    }
+    
+    .bigiguana {
+        background-image: url('../img/bg-header.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        /*width: 1280px;*/
+        height: 727px;
+    }
+    
+    .desc-section {
+        text-align: center;
+    }
+    
+    .desc-section img {
+        display: inline-block;
+        width: 399px;
+        height: 237px;
+        margin-left: 5em;
+    }
+    
+    .desc-section p {
+        display: inline-block;
+        text-align: left;
+        font: Light 16px/19px Raleway;
+        letter-spacing: 0px;
+        opacity: 1;
+        width: 50%;
+        width: 475px;
+        height: 197px;
+        font-weight: 300;
+    }
+    
+    .icons-section {
+        background-color: #1E1A13;
+        align-content: center;
+        text-align: center;
+        /*width: 1280px;*/
+        height: 348px;
+    }
+    
+    .icons-section h3 {
+        font-size: 40px;
+        padding: 1em;
+    }
+    
+    .icons-section p {
+        padding-top: 10px;
+        font-size: 24px;
+    }
+    
+    .icons-section figure {
+        display: inline-block;
+        margin: 10px;
+        padding-left: 80px;
+        padding-right: 80px;
+        padding-bottom: 90px;
+    }
+    
+    .figurasiguanas {
+        padding-left: 5%;
+    }
+    
+    #iguanas {
+        align-content: center;
+        padding-left: 15%;
+    }
+    
+    .iguanasbottom {
+        width: 30%;
+        text-align: center;
+        display: inline-block;
+        padding: 10px;
+        width: 316px;
+        height: 202px;
+    }
+    
+    footer {
+        text-align: center;
+        background-color: #1E1A13;
+        /*width: 1280px;*/
+        height: 102px;
+        align-content: center;
+    }
+    
+    footer p {
+        padding: 45px;
+    }
