@@ -1,4 +1,12 @@
-.bg-nav{
-    background-color:#E83E8C ;
 
+body{
+    font-family: "Open Sans", sans-serif;
+}
+.bg-nav{
+    background-color:#E83E8C;
+
+}
+.navbar-brand img{
+    width: 132px;
+    height: 53px;
 }
