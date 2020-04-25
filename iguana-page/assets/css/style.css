@@ -31,6 +31,7 @@
     
     .desc-section {
         text-align: center;
+        background-color:#000000;
     }
     
     .desc-section img {
@@ -38,6 +39,7 @@
         width: 399px;
         height: 237px;
         margin-left: 5em;
+        vertical-align:middle;
     }
     
     .desc-section p {
@@ -50,6 +52,7 @@
         width: 475px;
         height: 197px;
         font-weight: 300;
+        vertical-align:middle;
     }
     
     .icons-section {
@@ -101,9 +104,13 @@
         background-color: #1E1A13;
         /*width: 1280px;*/
         height: 102px;
-        align-content: center;
+        
     }
     
-    footer p {
-        padding: 45px;
+    footer a {
+        display: block;
+        text-decoration: none;
+        color: #ffffff;
+        font-weight: 300;
+        padding-top: 45px;
     }
