@@ -156,33 +156,33 @@ footer i {
 
 .titulo-simposio {
     text-align: left;
-    width: 50%;
-    margin-left: 24.5em;
+    align-content: center;
     padding-top: 13%;
+    margin-left: 300px;
 }
-
-.titulosim {
-    text-align: left;
-    padding-bottom: 0.5em;
-}
-
-.simposio {
-    text-align: left;
-    width: 50%;
-    margin-left: 23em;
-}
-
-.simposio p {
-    padding: 1.5em;
-}
-
-.simposio h2 {
-    margin-left: 0.5em;
-}
-
 .titulo-simposio img {
-    width: 92%;
+    width: 600px;
     background: #B36B0124 0% 0% no-repeat padding-box;
     border-radius: 5px;
     opacity: 1;
+}
+.simposio{
+    width:600px;
+    margin-left: 300px;
+}
+.content {
+    width: 600px;
+    color:#000F08;
+}
+
+.content h2 {
+    margin-left: 0.5em;
+}
+.content p{
+    text-align: left;
+    padding-bottom: 40px;
+}
+.titulosim {
+    text-align: left;
+    padding-bottom: 0.5em;
 }
