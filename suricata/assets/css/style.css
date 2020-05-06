@@ -4,9 +4,51 @@ body{
 }
 .bg-nav{
     background-color:#E83E8C;
-
+    
 }
 .navbar-brand img{
     width: 132px;
     height: 53px;
+}
+h1 {
+    
+    color: #707070;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+@media screen and (max-width: 400px){
+    h1{
+        font-size: 35px;
+    }
+    section{
+        display: none;
+    }
+}
+
+.icons-section {
+    background-color: #17A2B8;
+    height: 170px;
+    text-align: center;
+    padding-right: 20px;
+    
+}
+section h3{
+    display: inline-block;
+    font-size: 40px;
+    font-weight: bold;
+    padding-right: 70px;
+}
+section i{
+    padding-right: 30px;
+}
+footer{
+    text-align: center;
+    height: 184px;
+}
+
+footer img{
+    width: 53px;
+    height: 100px;
+  
 }

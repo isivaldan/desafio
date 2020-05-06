@@ -1,0 +1,55 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+.navbar-brand img{
+    width: 86px;
+    height: 25px;
+}
+button {
+    color: black;
+    font-weight: 500;
+}
+
+.card-title{
+    color: #212529;
+    font-weight: 300;
+}
+.list-group-item{
+    color: #707070;
+    font-weight: 300;
+    
+}
+.list-group-item p{
+    font-size: 0.8rem;
+}
+
+.card-body p{
+    display: inline-block;
+}
+.alinear{
+    margin-left: 6em;
+}
+.psizesecond{
+   
+    font-size: 1.1rem;
+}
+.psize{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.titulo-form{
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+.form-control{
+    font-weight: 300;
+}
+footer{
+    color: #707070;
+}
+footer img{
+    width: 86px;
+    height: 25px;
+}
